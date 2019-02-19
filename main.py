@@ -1,4 +1,5 @@
 # this will be the main file
+# author: Saer Debel
 
 x = 2
 print(x)
